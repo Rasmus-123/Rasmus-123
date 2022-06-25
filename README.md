@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 
 
 <!--
 **Rasmus-123/Rasmus-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
